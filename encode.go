@@ -10,8 +10,8 @@ import (
 	"sort"
 	"time"
 
-	"github.com/jhillyerd/enmime/internal/coding"
-	"github.com/jhillyerd/enmime/internal/stringutil"
+	"github.com/pacellig/enmime/internal/coding"
+	"github.com/pacellig/enmime/internal/stringutil"
 )
 
 // b64Percent determines the percent of non-ASCII characters enmime will tolerate before switching

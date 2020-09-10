@@ -8,7 +8,7 @@ import (
 	"net/textproto"
 	"strings"
 
-	"github.com/jhillyerd/enmime/internal/coding"
+	"github.com/pacellig/enmime/internal/coding"
 	"github.com/pkg/errors"
 )
 
