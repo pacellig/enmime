@@ -6,6 +6,8 @@ github.com/gogs/chardet v0.0.0-20150115103509-2404f7772561 h1:aBzukfDxQlCTVS0NBU
 github.com/gogs/chardet v0.0.0-20150115103509-2404f7772561/go.mod h1:Pcatq5tYkCW2Q6yrR2VRHlbHpZ/R4/7qyL1TCF7vl14=
 github.com/jaytaylor/html2text v0.0.0-20190408195923-01ec452cbe43 h1:jTkyeF7NZ5oIr0ESmcrpiDgAfoidCBF4F5kJhjtaRwE=
 github.com/jaytaylor/html2text v0.0.0-20190408195923-01ec452cbe43/go.mod h1:CVKlgaMiht+LXvHG173ujK6JUhZXKb2u/BQtjPDIvyk=
+github.com/jhillyerd/enmime v0.8.1 h1:Kz4xj3sJJ4Ju8e+w/7v9H4Matv5ijPgv7UkhPf+C15I=
+github.com/jhillyerd/enmime v0.8.1/go.mod h1:MBHs3ugk03NGjMM6PuRynlKf+HA5eSillZ+TRCm73AE=
 github.com/mattn/go-runewidth v0.0.4 h1:2BvfKmzob6Bmd4YsL0zygOqfdFnK7GR4QL06Do4/p7Y=
 github.com/mattn/go-runewidth v0.0.4/go.mod h1:LwmH8dsx7+W8Uxz3IHJYH5QSwggIsqBzpuz5H//U1FU=
 github.com/olekukonko/tablewriter v0.0.1 h1:b3iUnf1v+ppJiOfNX4yxxqfWKMQPZR5yoh8urCTFX88=

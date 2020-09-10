@@ -7,7 +7,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/jhillyerd/enmime"
+	"github.com/pacellig/enmime"
 )
 
 // ExampleBuilder illustrates how to build and send a MIME encoded message.
