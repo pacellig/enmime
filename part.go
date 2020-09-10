@@ -13,7 +13,7 @@ import (
 	"time"
 
 	"github.com/gogs/chardet"
-	"github.com/jhillyerd/enmime/internal/coding"
+	"github.com/pacellig/enmime/internal/coding"
 	"github.com/pkg/errors"
 )
 

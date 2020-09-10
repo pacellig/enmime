@@ -7,8 +7,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/jhillyerd/enmime"
-	"github.com/jhillyerd/enmime/cmd"
+	"github.com/pacellig/enmime"
+	"github.com/pacellig/enmime/cmd"
 )
 
 type dumper struct {
